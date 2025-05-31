@@ -33,25 +33,6 @@
             ]
           }
         ]
-      },
-      {
-        "tab": "User Guides",
-        "groups": [
-          {
-            "group": "Get Started",
-            "pages": [
-              "user-guides/index",
-              "user-guides/quickstart"
-            ]
-          },
-          {
-            "group": "Discord Bot",
-            "pages": [
-              "user-guides/keywords",
-              "user-guides/channels"
-            ]
-          }
-        ]
       }
     ],
     "global": {
