@@ -11,7 +11,7 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "Guides",
+        "tab": "Guild Guides",
         "groups": [
           {
             "group": "Get Started",
@@ -35,21 +35,20 @@
         ]
       },
       {
-        "tab": "API Reference",
+        "tab": "User Guides",
         "groups": [
           {
-            "group": "API Documentation",
+            "group": "Get Started",
             "pages": [
-              "api-reference/introduction"
+              "user-guides/index",
+              "user-guides/quickstart"
             ]
           },
           {
-            "group": "Endpoint Examples",
+            "group": "Discord Bot",
             "pages": [
-              "api-reference/endpoint/get",
-              "api-reference/endpoint/create",
-              "api-reference/endpoint/delete",
-              "api-reference/endpoint/webhook"
+              "user-guides/keywords",
+              "user-guides/channels"
             ]
           }
         ]
